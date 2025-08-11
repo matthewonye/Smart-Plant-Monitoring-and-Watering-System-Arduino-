@@ -34,7 +34,7 @@ See **docs/wiring.md** for connections and safety notes.
 - `src/SmartPlantMonitor.ino` – main firmware
 - `wiring.md` – wiring map and relay/pump connection guide
 - `materials.md` – parts list with notes
-- `docs/images/` – add your wiring photo and demo screenshot
+- `images.md` – add your wiring photo and demo screenshot
 
 ## Demo
 _Add a short GIF or image here after testing._
