@@ -36,5 +36,4 @@ See **docs/wiring.md** for connections and safety notes.
 - `materials.md` – parts list with notes
 - `images.md` – add your wiring photo and demo screenshot
 
-## Demo
-_Add a short GIF or image here after testing._
+
