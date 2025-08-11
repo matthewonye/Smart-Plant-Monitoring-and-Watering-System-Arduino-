@@ -8,12 +8,12 @@ An embedded system that monitors soil moisture and environmental conditions and 
 - Serial output for live readings and calibration
 
 ## Hardware
-- Arduino Uno (or Nano)
-- DHT11 (3-pin module)
-- Capacitive soil moisture sensor (analog)
-- 1-channel relay module (DC+, DC-, IN; COM/NO/NC terminals)
+- Arduino Uno 
+- DHT11 
+- Capacitive soil moisture sensor 
+- 1-channel relay module 
 - 5V submersible pump + tubing
-- Separate pump power source (e.g., 5V/1–2A adapter or battery pack)
+- Separate pump power source 
 - Breadboard, jumpers
 
 See **docs/wiring.md** for connections and safety notes.
