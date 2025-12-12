@@ -1,9 +1,8 @@
 # Smart Plant Monitoring & Watering System (Arduino)
 
-An embedded system that monitors soil moisture and environmental conditions and automatically waters a plant using a relay-controlled pump.
 
 ## Overview
--The purpose of this project was to find a way to set up a time everyday so that instead of manually watering plants it would automatically do it when needed. To do this I created an Embedded system that monitors the soil moisture and enviromental conditions and automatically waters my plants using relayed controlled pump. This way instead of setting a certain time everyday to water the plant it would water it at a certain point when it is needed.
+- The purpose of this project was to find a way to set up a time everyday so that instead of manually watering plants it would automatically do it when needed. To do this I created an Embedded system that monitors the soil moisture and enviromental conditions and automatically waters my plants using relayed controlled pump. This way instead of setting a certain time everyday to water the plant it would water it at a certain point when it is needed.
 
 ## Main Issues
 - I ran into a few issues with some of the hardware and the wiring to where I didnt have a specific adapter to actually wire and give power to my pump so my work around was cutting off the adapter that was on the componet, which was a barrel head port and manually wired the battery that way. This way I didn't have to spend money to get a whole connector to give power to my device. Another problem I ran into was the code I had problems with timing behavior I had problems with rapid switching so adding the fixed delay allowed me to prevent it from switching rapidly.
