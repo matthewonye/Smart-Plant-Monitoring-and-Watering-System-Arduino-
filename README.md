@@ -21,6 +21,11 @@
 - Separate pump power source 
 - Breadboard, jumpers
 
+## Project Images
+-Image 1 shows a brief overview of how I started my wiring process and some of the componets used
+-Image 2 shows the final wiring along with how I have the pump set up in water going all the way to a cup of soil
+
+
 See **docs/wiring.md** for connections and safety notes.
 
 ## Quick Start
